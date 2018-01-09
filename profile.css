@@ -1,0 +1,33 @@
+header{
+    padding: 1em;
+	color:white;
+    background-color:#D2E5F1;
+    clear: left;
+    text-align: center;
+}
+
+footer {
+	color:black;
+	background-color:#EAECEE;
+}
+
+#container {
+    width: 100%;
+    background-color:white;
+    margin: auto;
+}
+#first {
+    width: 20%;
+    float: left;
+    height: 800px;
+        background-color:#F5EEF8  ;
+}
+#second {
+    width: 79%;
+    float: right;
+    height:800px;
+    background-color:#D6DBDF;
+}
+#clear {
+    clear: both;
+}
